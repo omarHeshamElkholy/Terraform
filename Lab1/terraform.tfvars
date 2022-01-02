@@ -1,0 +1,8 @@
+customer = "customer1"
+project = "iti"
+cidr_block_1 = "10.0.1.0/24"
+cidr_block_2 = "10.0.2.0/24"
+cidr_block_3 = "10.0.3.0/24"
+cidr_block_4 = "10.0.4.0/24"
+cidr_block_5 = "10.0.5.0/24"
+cidr_block_6 = "10.0.6.0/24"
